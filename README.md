@@ -10,7 +10,7 @@ Welcome to **The Typer**, your go-to tool for cutting down on repetitive typing.
 
 3. **Clone the repo**:
     ```bash
-    git clone https://github.com/Pr1s0n3r627/The-Typer
+    git clone https://github.com/Kshitij-Sahdev/The-Typer
     ```
 
 4. **Navigate to the folder**:
